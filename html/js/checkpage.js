@@ -1,0 +1,2 @@
+var myPage={Home:function(){return!!$("body").hasClass("home")},InnerAny:function(){return!!$("body").hasClass("inner")},InnerText:function(){return!!$("body").hasClass("inner-text")},InnerAbout:function(){return!!$("body").hasClass("inner-about")},InnerContacts:function(){return!!$("body").hasClass("inner-contacts")},InnerUsluga:function(){return!!$("body").hasClass("inner-usluga")}};
+//# sourceMappingURL=maps/checkpage.js.map
