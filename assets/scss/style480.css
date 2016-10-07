@@ -1,0 +1,61 @@
+/* GENERAL */
+.inner-wrp {margin-bottom:-170px;}
+.empty {height:170px}
+
+/* HEADER */
+.header__menu-btn {font-size:20px;}
+.header__menu .noliststyle  > li {font-size:14px; text-transform:none;}
+
+/* FOOTER */
+.footer {height:150px;}
+
+.footer__dropup {font-size:18px;}
+.footer__order-call,
+.footer_dropup {margin:0;}
+
+.footer__crights {bottom:45px;}
+.footer__axioma-logo {bottom:45px;}
+
+
+
+/* SLIDE 1 */
+.slide-intro__body > h1 {font-size: 58px;} 
+
+/* SLIDE 2 */
+.slide-uslugi > h2 {font-size:40px;}
+
+/* SLIDE 3 */
+.slide-osobennosti .padding-wrp h2 {font-size:35px; line-height:55px;}
+.main-osobennost {width:70%; padding-left:10px;}
+.main-osobennost:before {display:none;}
+.main-osobennost:nth-of-type(8) {margin-bottom:40px;}
+
+/* SLIDE 4 */
+.okompanii-body__title {font-size:40px; height:auto;}
+.okompanii-body__title > a {margin-top:20px;}
+
+/* CONTACTS */
+.inner-contacts .left-column {width:70%;}
+.inner-contacts .right-column {width:20%;}
+.inner-contacts .left-column .swiper-container > .swiper-scrollbar {left:-7%;}
+
+/* USLUGI */
+.usluga__head h1 {width:44%; padding:3%; max-width:none; font-size:14px;}
+.usluga__head__order {width:44%; padding:3%; max-width:none; font-size:14px;}
+
+.usluga-char__title {width:50%; margin-right:5%;}
+.usluga-char__text {width:40%; font-size:20px; line-height:24px;}
+
+.usluga__text ol > li {font-size:16px; margin-right:0; max-width:95px; padding:10px 10px 10px 35px;}
+.usluga__text ol > li:before {left:0;}
+
+/*MONITORING*/
+.monitoring__head h1 {width:40%; padding:5%; max-width:none; font-size:17px;}
+.monitoring__head__order {width:40%; padding:5%; max-width:none; font-size:17px;}
+
+/* ABOUT */
+.about__head h1 {width:40%; left:0; padding:0 5%;}
+.about__head__order {width:40%; right:0; padding:0 5%; line-height:35px;}
+
+/* FEEDBACK */
+.feedback {padding:25px 30px; width:200px;}

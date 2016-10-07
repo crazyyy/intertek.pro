@@ -1,0 +1,72 @@
+/* GENERAL */
+.padding-wrp {max-width:980px;}
+/* HEADER */
+.header__logo {width:180px;}
+.header__menu .noliststyle > li > a {max-width:100px; padding:0 10px;}
+
+/* FOOTER */
+.footer__crights,
+.footer__axioma-logo {margin:0 3%;}
+
+.footer__order-call,
+.footer__dropup,
+.footer__addr {margin:0 1%;}
+
+/* SLIDE 1 */
+
+/* SLIDE 2 */
+.slide-uslugi > h2 {top:5%}
+.main-usliga__icon {top:20%;
+	-webkit-transform : scale(.7);
+	-moz-transform    : scale(.7);
+	-ms-transform     : scale(.7);
+	-o-transform      : scale(.7);
+	transform         : scale(.7);}
+.main-usliga:hover .main-usliga__icon {
+	-webkit-transform : scale(.8);
+	-moz-transform    : scale(.8);
+	-ms-transform     : scale(.8);
+	-o-transform      : scale(.8);
+	transform         : scale(.8);}
+.main-usliga__title {top:55%; right:20px; left:20px;}
+.main-usliga:hover  .main-usliga__title {top:60%;}
+
+/* SLIDE 3 */
+.slide-osobennosti ol {text-align:center;}
+.main-osobennost {margin-right:0; width:230px; padding-left:60px;}
+.main-osobennost:before {width:60px; font-size:100px;}
+.main-osobennost:nth-of-type(4),
+.main-osobennost:nth-of-type(7){margin-left:0;}
+
+/* SLIDE 4 */
+.slide-okompanii .left-column {width:65%;}
+.slide-okompanii .right-column {width:35%;}
+.okompanii-body__title {margin-bottom:20px;}
+.okompanii-body__text {margin-bottom:20px;}
+
+/* CONTACTS */
+.contacts__title {font-size:45px;}
+
+/* USLUGI */
+/*.usluga__utp .padding-wrp {width:90%; padding:40px 5%;}*/
+.usluga__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.usluga__head h1 {font-size:46px; max-width:600px; left:0;}
+.usluga__head__order {right:0;}
+
+.usluga-char {margin-right:65px;}
+.usluga-advantage {max-width:250px;}
+
+/*MONITORING*/
+.monitoring__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.monitoring__head h1 {font-size:46px; height:auto; max-width:600px;}
+.monitoring__head h1 {left:0;}
+.monitoring__head__order {right:0;}
+
+/* ABOUT */
+.about__uslugi {text-align:center; padding-bottom:0;}
+.about-usluga {padding:0 6%; margin-bottom:70px;}
+
+.about__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.about__head h1 {left:0;}
+.about__head__order {right:0;}
+

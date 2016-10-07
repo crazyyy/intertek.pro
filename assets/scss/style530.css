@@ -1,0 +1,63 @@
+/* GENERAL */
+.inner-wrp {margin-bottom:-160px;}
+.empty {height:160px}
+
+.inner .inner-wrp {margin-bottom:-160px;}
+.inner .empty {height:160px;}
+.inner .footer {height:140px;}
+/* HEADER */
+
+
+/* FOOTER */
+.footer {height:140px;}
+
+.footer__order-call,
+.footer_dropup {margin:0 11%;}
+.footer__addr {width:auto; line-height:30px; margin-top:10px;}
+
+/* SLIDE 1 */
+.slide-intro__body > h1 {} 
+
+/* SLIDE 2 */
+.main-usliga__title {margin-top:20%;}
+
+/* SLIDE 3 */
+
+
+/* SLIDE 4 */
+.okompanii-body__title > span {font-size:35px;}
+
+/* CONTACTS */
+.inner-contacts .left-column {width:60%;}
+.inner-contacts .right-column {width:30%;}
+.inner-contacts .left-column .swiper-container > .swiper-scrollbar {left:-8%;}
+
+/* USLUGI */
+.usluga__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.usluga__head h1 {font-size:18px; left:0;}
+.usluga__head__order {font-size:18px; right:0;}
+
+
+.usluga__text ol > li {margin-right:20px; max-width:120px; padding:10px 10px 10px 50px;}
+.usluga__text ol > li:before {}
+
+.usluga__text ol > li {}
+.usluga__text ol > li:before {}
+
+/*MONITORING*/
+.monitoring__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.monitoring__head h1 {height:40px; line-height:22px; font-size:18px; left:0;}
+.monitoring__head__order {line-height:22px; height:40px; font-size:18px; right:0;}
+
+/* ABOUT */
+.about__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.about__head h1 {font-size:18px; left:0;}
+.about__head__order {right:0;}
+
+/* FEEDBACK */
+.feedback {padding:25px 60px; width:300px;}
+.fancybox-wrap .fancybox-close {left:50%!important; top:-50px!important; margin-left:-20px!important; width:40px!important; height:40px!important;}
+.feedback h3 {font-size:22px; margin-bottom:20px;}
+.feedback input[type="text"] {line-height:45px; height:45px;}
+.feedback_input-wrp .pl {line-height:45px; height:45px;}
+.feedback input[type="submit"] {line-height:35px; font-size:16px;}

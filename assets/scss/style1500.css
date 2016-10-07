@@ -1,0 +1,36 @@
+/* GENERAL */
+/*.padding-wrp {max-width:980px;}*/
+
+/* HEADER */
+.header__menu .noliststyle > li > a {padding:0 16px;}
+
+/* FOOTER */
+.footer__crights,
+.footer__axioma-logo {margin:0 8%;}
+.footer__order-call,
+.footer__dropup,
+.footer__addr {margin:0 1%;}
+
+/* SLIDE 1 */
+
+
+/* SLIDE 2 */
+.main-usliga__title {right:30px; left:30px;}
+
+/* SLIDE 3 */
+.main-osobennost {margin-right:30px;}
+.main-osobennost:nth-of-type(4){margin-left:65px;}
+.main-osobennost:nth-of-type(7){margin-left:130px;}
+
+/* SLIDE 4 */
+
+/* USLUGI */
+.usluga__head h1 {font-size:46px; height:auto; max-width:600px;}
+
+.usluga-char {margin-right:15%;}
+
+/*MONITORING*/
+.monitoring__head h1 {font-size:46px; height:auto; max-width:600px;}
+
+/* ABOUT */
+.about-usluga {padding:0 1%;}

@@ -1,0 +1,89 @@
+/* GENERAL */
+.inner-wrp {margin-bottom:-130px;}
+.empty {height:130px}
+
+.inner .inner-wrp {margin-bottom:-130px;}
+.inner .empty {height:130px;}
+.inner .footer {height:110px;}
+/* HEADER */
+/**/
+.header {height:60px;}
+.header__logo {height:60px;}
+.header__menu-btn {line-height:60px;}
+/**/
+.header__menu-btn {display:inline-block; vertical-align:top;}
+.header__menu {opacity:0; display:none; position:absolute; z-index:-1; right:0; left:0; top:60px;}
+.header__menu.active{opacity:1; z-index:100; display:block; height:auto;}
+.header__menu .noliststyle {position:relative; width:100%; background-color:#af3e3a; height:auto; padding-bottom:80px;}
+.header__menu .noliststyle  > li {display:block; width:100%; max-width:none; background-color:#af3e3a; font-size:16px; text-transform:uppercase;}
+.header__menu .noliststyle  > li  > a {max-width:100%;}
+.header__menu .noliststyle  > li  > a > span{display:block; text-align:center; line-height:50px; height:50px;}
+.header__menu__lang {bottom:0; top:auto; left:0; text-align:center;}
+
+/* FOOTER */
+.footer {height:110px;}
+.footer__scroller {display:block;}
+.footer__order-call,
+.footer__addr {margin:0 3%;}
+
+.footer__crights {position:absolute; bottom:40px; left:10%;}
+.footer__axioma-logo {position:absolute; bottom:40px; right:10%;}
+
+/* SLIDE 1 */
+
+
+/* SLIDE 2 */
+.slide-uslugi {height:1200px; padding:2%; width:96%;}
+.slide-uslugi > h2 {position:relative; top:0; left:0; line-height:75px; background:none; padding:0; margin-bottom:20px;}
+.main-usliga {display:block; width:100%; height:260px; margin-bottom:20px;}
+
+.main-usliga__icon  {margin-left:0!important; left:50px; top:50%; margin-top:-77.5px;}
+.main-usliga__title {position:relative; display:block; top:0; width:60%; margin-left:30%; left:0; padding:0 5%; margin-top:10%;}
+.main-usliga:hover .main-usliga__title {top:0;}
+
+/* SLIDE 3 */
+.slide-osobennosti {height:auto;}
+.main-osobennost {margin-right:10px; width:250px;}
+
+/* SLIDE 4 */
+.okompanii-body__title {font-size:67px;}
+.slide-okompanii .left-column {width:100%;}
+.slide-okompanii .right-column {display:none;}
+
+/* CONTACTS */
+.inner-contacts .left-column {width:40%;}
+.contacts__title {font-size:36px; color:rgba(0,0,0,.7); background-color:transparent; text-transform:uppercase; font-weight:normal; margin-bottom:40px;}
+
+.inner-contacts .right-column {width:50%;}
+.inner-contacts .left-column .swiper-container > .swiper-scrollbar {left:-12.5%;}
+
+/* USLUGI */
+.usluga__head h1 {max-width:350px;}
+
+.usluga__text ol > li {margin-right:0; max-width:110px; padding:10px 10px 10px 45px;}
+.usluga__text ol > li:before {left:5px;}
+
+.usluga-char {margin-right:150px;}
+.usluga-char:nth-of-type(3n) {margin-right:150px;}
+.usluga-char:nth-of-type(2n) {margin-right:0;}
+
+.usluga-advantage {max-width:300px; margin-right:10%}
+.usluga-advantage:nth-of-type(3n) {margin-right:10%;}
+.usluga-advantage:nth-of-type(2n) {margin-right:0;}
+
+.usluga__process {height:auto;}
+.usluga__process .left-column {display:none;}
+.usluga__process .right-column {width:100%;}
+.usluga__process .right-column .padding-wrp {width:80%; padding:10%;}
+
+/*MONITORING*/
+.monitoring__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.monitoring__head h1 {left:0;}
+.monitoring__head__order {right:0;}
+
+/* ABOUT */
+.about__head .padding-wrp {width:100%; padding:0; max-width:1366px;}
+.about__head h1 {left:0; font-size:50px;}
+.about__head__order {right:0;}
+
+.about-usluga {padding:0 3%;}

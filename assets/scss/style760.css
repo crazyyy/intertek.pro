@@ -1,0 +1,81 @@
+/* GENERAL */
+
+
+/* HEADER */
+
+
+/* FOOTER */
+.footer__order-call,
+.footer__addr {margin:0;}
+.footer__order-call {padding:7px 20px 7px 20px}
+.footer__order-call > span {display:none;}
+.footer__addr {width:130px; line-height:21px;}
+/*.footer__crights {position:absolute; bottom:10px; left:11%;}
+.footer__axioma-logo {position:absolute; bottom:10px; right:11%;}
+.footer__phone{margin:0 5px;}*/
+
+
+/* SLIDE 1 */
+.slide-intro__body {width:100%;}
+.slide-intro__body > h1 {font-size:5.4em;} 
+.slide-intro__body > h1 > a {display:none;}
+
+/* SLIDE 2 */
+.main-usliga__icon {display:none;}
+.main-usliga__title {width:80%; margin-left:0; padding:0 10%;}
+
+/* SLIDE 3 */
+.main-osobennost {margin-right:0; width:85%;}
+
+/* SLIDE 4 */
+.slide-okompanii .left-column {width:100%;}
+.slide-okompanii .right-column {display:none;}
+/*.slide-okompanii {height:650px;}*/
+.okompanii-body__title > span {font-size:45px;}
+.okompanii-body__title > a {margin-left:0;}
+
+/* CONTACTS */
+.inner-contacts .left-column {width:50%;}
+.contacts__title {margin-bottom:20px;}
+
+.inner-contacts .right-column {width:40%;}
+.inner-contacts .left-column .swiper-container > .swiper-scrollbar {left:-10%;}
+
+/* USLUGI */
+.usluga__head .padding-wrp {max-width:980px; padding:0 5%; width:90%; height:220px;}
+.usluga__head h1 {font-size:19px; left:5%; padding: 20px 5%; line-height:60px;}
+.usluga__head__order {right:5%; font-weight:lighter; max-width:145px; line-height:30px; padding: 20px 5%;}
+
+.usluga__text ol > li {margin-right:20%; max-width:120px; padding:10px 10px 10px 50px;}
+.usluga__text ol > li:nth-of-type(2n) {margin-right:0;}
+.usluga__text ol > li:before {left:10px}
+
+.usluga-char {margin-right:0; width:100%;}
+.usluga-char:nth-of-type(3n) {margin-right:0;}
+.usluga-char:nth-of-type(2n) {margin-right:0;}
+
+.usluga-char__title {display:inline-block; width:40%; margin-right:10%;}
+.usluga-char__text {display:inline-block; width:40%; font-size:22px; line-height:25px;}
+
+.usluga-advantage {max-width:90%; width:90%; margin:0 5% 30px;}
+.usluga-advantage:nth-of-type(3n) {margin:0 5% 30px;}
+.usluga-advantage:nth-of-type(2n) {margin:0 5% 30px;}
+
+.usluga__process__order {padding:0 30px;}
+
+/*MONITORING*/
+.monitoring__head .padding-wrp {max-width:980px; padding:0 5%; width:90%; height:220px;}
+.monitoring__head h1 {font-size:19px;left:5%; max-width:145px; line-height:30px; padding: 20px 5%;}
+.monitoring__head__order {right:5%; font-weight:lighter; max-width:145px; line-height:30px; padding: 20px 5%;}
+
+/* ABOUT */
+.about__head .padding-wrp {max-width:980px; padding:0 5%; width:90%; height:220px;}
+.about__head h1 {font-size:25px; left:5%;}
+.about__head__order {font-weight:normal; right:5%;}
+
+.about-usluga {padding:0 10%; width:80%;  margin-bottom:50px;}
+
+.about__sklad {background: url(/img/about/about__sklad760.jpg) 50%/cover no-repeat;}
+
+/* FEEDBACK */
+.feedback {padding:25px 60px; width:350px;}
