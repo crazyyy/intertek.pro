@@ -579,7 +579,6 @@ body {
 
   vertical-align: top;
   text-decoration: none;
-
 }
 
 .main-usliga__icon {
@@ -619,7 +618,6 @@ body {
   transition: all .3s linear;
   text-align: center;
   text-transform: uppercase;
-
 
   color: #fff;
   &:before {
@@ -1804,7 +1802,6 @@ body {
 
 .usluga__process__order {
   font-size: 16px;
-
   line-height: 50px;
 
   display: inline-block;
@@ -1914,8 +1911,7 @@ body {
       outline: none;
       background-color: #fff;
 
-              appearance: none;
-
+      appearance: none;
       &:hover {
         color: #fff;
         border: 1px solid #fff;
@@ -2212,7 +2208,9 @@ body {
   overflow-x: auto;
   overflow-y: hidden;
 }
-
+.fancybox-margin {
+  margin-right: 17px;
+}
 /**/
 
 .inner {
